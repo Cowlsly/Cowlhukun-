@@ -11,4 +11,10 @@
     <string name="home_status_owner_transferred">%1$s a fost transferat!!!</string>
     <string name="home_status_owner_denied">Se așteaptă activarea</string>
     <string name="home_app_management_title">Gestionare aplicație</string>
+    <string name="home_app_management_dsp">Aplicațiile care au solicitat sau au declarat Dhizuku vor apărea aici.</string>
+    <string name="home_dhizuku_title">Activați folosind Dhizuku</string>
+    <string name="home_dhizuku_dsp">Dacă aveți alte implementări Dhizuku instalate, le puteți schimba la propria voință. Vă rugăm să &lt;a href=\"%1$s\"&gt;Citiți Ajutorul&lt;/a&gt;.</string>
+    <string name="home_shizuku_title">Activați folosind Shizuku</string>
+    <string name="home_shizuku_dsp">Cu Shizuku, aveți abilitatea să rulați comenzi ADB fără a avea nevoie de un calculator. Vă rugăm să &lt;a href=\"%1$s\"&gt;Citiți Ghidul&lt;/a&gt;.</string>
+    <string name="home_adb_title">Activați folosind ADB</string>
 </resources>
